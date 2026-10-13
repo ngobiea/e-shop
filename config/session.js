@@ -11,7 +11,7 @@ function createSessionStore() {
   });
 
   return store;
-}
+} 
 
 
 function createSessionConfig() {
